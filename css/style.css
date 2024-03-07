@@ -351,6 +351,9 @@ textarea {
   padding-top: 0;
   padding: 0 50px;
 }
+.BackToTop {
+  display: block;
+}
 
 .fa-solid { 
   font-size: 50px;
@@ -372,4 +375,5 @@ textarea {
   padding-bottom: 100px;
   margin: 0 50px;
 }
+
 }
