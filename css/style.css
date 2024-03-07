@@ -223,6 +223,9 @@ a {
   padding: 100px 0px 100px 0px;
   text-align: center;
 }
+.BackToTop { 
+  display: none;
+}
 
 /* footer */
 
